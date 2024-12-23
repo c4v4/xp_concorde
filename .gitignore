@@ -1,4 +1,6 @@
 *
-!./LP/lpxpress.c
-!./README.md
+!LP
+LP/*
+!LP/lpxrpress95.c
+!README.md
 !.gitignore
